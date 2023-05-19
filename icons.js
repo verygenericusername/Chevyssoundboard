@@ -116,6 +116,7 @@ var icons = {
         sound.LETITGROW();
         sound.yahoomario();
       sound.beekay2();
+      sound.polishcow();
     });
   }
 };
