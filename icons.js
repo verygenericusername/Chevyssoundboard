@@ -74,6 +74,9 @@ var icons = {
              if(snd === 17){
        sound.beekay2();
        }
+      if(snd === 18){
+      sound.polishcow();
+      }
       });
       center.appendChild(container);
   },
