@@ -71,6 +71,9 @@ var icons = {
        if(snd === 16){
         sound.yahoomario();
        }
+      if(snd === 17){
+      sound.beekay2();
+      }
       });
       center.appendChild(container);
   },
@@ -109,6 +112,7 @@ var icons = {
         sound.sc();
         sound.LETITGROW();
         sound.yahoomario();
+      sound.beekay2();
     });
   }
 };
