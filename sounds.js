@@ -96,6 +96,11 @@ var sound = {
         soundtortrn.play();
         soundtortrn.classList.add("aud");
     },
+    polishcow: function(){
+        var soundtortrn = new Audio("sounds/polishcow.mp3");
+        soundtortrn.play();
+        soundtortrn.classList.add("aud");
+    },
     stopall: function(){
         location.reload();
     }
