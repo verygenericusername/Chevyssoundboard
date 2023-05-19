@@ -91,6 +91,11 @@ var sound = {
         soundtortrn.play();
         soundtortrn.classList.add("aud");
     },
+    beekay: function(){
+    var soundtortrn = new Audio("sounds/beekay2.mp3");
+        soundtortrn.play();
+        soundtortrn.classList.add("aud");
+    },
     stopall: function(){
         location.reload();
     }
