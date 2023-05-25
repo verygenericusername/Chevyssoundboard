@@ -78,7 +78,7 @@ var icons = {
       sound.polishcow();
       }
       if(snd === 19){
-        sound.hbctpb();
+        sound.howbadcanibe();
       }
       });
       center.appendChild(container);
@@ -120,7 +120,7 @@ var icons = {
         sound.yahoomario();
       sound.beekay2();
       sound.polishcow();
-      sound.hbctpb();
+      sound.howbadcanibe();
     });
   }
 };
