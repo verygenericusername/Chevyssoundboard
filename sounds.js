@@ -101,6 +101,11 @@ var sound = {
         soundtortrn.play();
         soundtortrn.classList.add("aud");
     },
+    howbadcanibe: function(){
+        var soundtortrn = new Audio("sounds/hbctpb.mp3");
+        soundtortrn.play();
+        soundtortrn.classList.add("aud");
+    },
     stopall: function(){
         location.reload();
     }
